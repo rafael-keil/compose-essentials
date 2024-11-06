@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JetpackCompose</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+    <string name="welcome_to_the_basics_codelab">Welcome to the Basics Codelab!</string>
+    <string name="continue_string">Continue</string>
+    <string name="hello">"Hello, "</string>
+    <string name="long_greeting">"Hello, "</string>
+</resources>
